@@ -1,0 +1,3 @@
+/home/deniz/Desktop/passthrough_denemesi/build/CMakeFiles/filtrele.dir
+/home/deniz/Desktop/passthrough_denemesi/build/CMakeFiles/edit_cache.dir
+/home/deniz/Desktop/passthrough_denemesi/build/CMakeFiles/rebuild_cache.dir

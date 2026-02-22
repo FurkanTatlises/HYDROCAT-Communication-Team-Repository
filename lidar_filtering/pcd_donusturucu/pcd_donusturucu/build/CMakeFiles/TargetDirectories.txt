@@ -1,0 +1,3 @@
+/home/deniz/pcd_donusturucu/build/CMakeFiles/donusturucu.dir
+/home/deniz/pcd_donusturucu/build/CMakeFiles/edit_cache.dir
+/home/deniz/pcd_donusturucu/build/CMakeFiles/rebuild_cache.dir
